@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.211" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2018-01-19T09:11:23" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="TestNow" timestamp="2018-01-19T09:11:23" tests="0" file="/app/user/amin/xxx/xxx/test.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="/Test Router GET /cauhoi?level=1" timestamp="2018-01-19T09:11:23" tests="1" file="/app/user/amin/xxx/xxx/test.js" failures="0" time="0.147">
+    <testcase name="TestNow /Test Router GET /cauhoi?level=1 should Response One Data With Error_Code" time="0.147" classname="should Response One Data With Error_Code">
+    </testcase>
+  </testsuite>
+  <testsuite name=" /Test SQL Injection with Router  &quot; GET /cauhoi?level=1&apos; &quot; " timestamp="2018-01-19T09:11:23" tests="1" file="/app/user/amin/xxx/xxx/test.js" failures="0" time="0.064">
+    <testcase name="TestNow  /Test SQL Injection with Router  &quot; GET /cauhoi?level=1&apos; &quot;  Check SQL Injection" time="0.064" classname="Check SQL Injection">
+    </testcase>
+  </testsuite>
+</testsuites>
